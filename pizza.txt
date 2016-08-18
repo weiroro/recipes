@@ -1,6 +1,5 @@
 Best Pizza 
-test test 
-t1 t1
+
 Ingredients 
 
 *1 pre-made crust
@@ -12,4 +11,6 @@ Ingredients
 *1 suyu
 *1 mushrooms
 
-xxxxxxxx
+Directions 
+1. Spread pizza sauce evenly over the crust.
+2. Shred cheese, if needed.
